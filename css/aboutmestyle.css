@@ -1,0 +1,32 @@
+body{
+  background: #5b5b5b;
+}
+.sec-header{
+  color: #fff;
+  margin-top: 25px;
+}
+.socials a {
+  width: 40px;
+  height: 40px;
+  background: #000;
+  display: inline-block;
+}
+.socials i {
+  color: #fff;
+  padding: 12px;
+}
+.line {
+  height: 2px;
+  width: 200px;
+  background: #AE0F86;
+  margin: 20px 0;
+}
+.card-header {
+  background-color: #AE0F86;
+}
+.btn.btn-link {
+  color: #fff;
+  font-size: 20px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
